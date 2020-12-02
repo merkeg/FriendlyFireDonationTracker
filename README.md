@@ -11,5 +11,5 @@ Um die Server von Betterplace.org nicht zu überlasten, werden die Abfragen nur 
 ## Einträge
 | Name | Austragungsdatum | Angefangen zu Tracken | Beendet zu tracken | Einträge Gesamt |
 |---|---|---|---|---|
-| Friendly Fire 5 | 7. Dezember 2019 | 06. Dezember 2019 | 08. Dezember 2019 | 100 |
+| Friendly Fire 5 | 7. Dezember 2019 | 06. Dezember 2019 | 08. Dezember 2019 | 2809 |
 | Friendly Fire 6 | 5. Dezember 2020 | 02. Dezember 2020  | TBD | TBD |
